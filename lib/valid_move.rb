@@ -28,4 +28,4 @@ def position_taken?(board, index)
   end
 end
 
-display_board()
+var display_board()
